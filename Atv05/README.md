@@ -9,7 +9,7 @@ Para isso, concatene a String com o valor, usando "Valor da média mensal = " + 
     Diciplina: Programação Orientada à Objetos
     Professor: Nelson Bellincanta
     Aluna: Camila Ribeiro Gonçalves
-    Data: 14/04/2023
+    Data: 15/04/2023
     */
     
     public class BalancoTrimestral {
