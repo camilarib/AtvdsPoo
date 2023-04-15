@@ -3,7 +3,6 @@
 Calcule e mostre a média.
 
 # Código:
-    //Classe impressão de texto: 
     /*
     IFPR - Campus Cascavel
     Curso: Informatica
