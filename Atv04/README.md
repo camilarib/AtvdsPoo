@@ -16,7 +16,7 @@ seguindo os seguintes passos:
       Diciplina: Programação Orientada à Objetos
       Professor: Nelson Bellincanta
       Aluna: Camila Ribeiro Gonçalves
-      Data: 14/04/2023
+      Data: 15/04/2023
       */
       public class BalancoTrimestral {// declaração da classe BalancoTrimestral
         public static void main (String[] args) { // declaração do metodo main
