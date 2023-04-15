@@ -3,6 +3,7 @@
 inválidos devem ser desconsiderados sem provocar a exibição de erros ou exceções.
 
 # Código:
+    /*
     IFPR - Campus Cascavel
     Curso: Informatica
     Diciplina: Programação Orientada à Objetos
