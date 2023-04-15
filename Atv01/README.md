@@ -3,8 +3,6 @@
 inválidos devem ser desconsiderados sem provocar a exibição de erros ou exceções.
 
 # Código:
-    //Classe impressão de texto: 
-     /*
     IFPR - Campus Cascavel
     Curso: Informatica
     Diciplina: Programação Orientada à Objetos
