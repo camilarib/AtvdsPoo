@@ -5,7 +5,6 @@
 * c) Utilizar um comentário para afirmar que um programa executa um cálculo de exemplo de folha de pagamento.
 
 # Código:
-    //Classe impressão de texto: 
     /*
     IFPR - Campus Cascavel
     Curso: Informatica
