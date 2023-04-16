@@ -17,16 +17,16 @@ inválidos devem ser desconsiderados sem provocar a exibição de erros ou exce�
          public class Atv01 { // declara a classe Atv01
          public static void main(String[]args) { // declaração do método main
          int soma, n1, n2; //criação das variaveis n1, n2 e n3
-         Scanner i = new Scanner(System.in); // cria uma nova insttancia da classe Scanner, o i será o que o usuario irá digitar
+         Scanner leitor = new Scanner(System.in); // cria uma nova insttancia da classe Scanner, o i será o que o usuario irá digitar
     
          System.out.println("Digite o primmerio numero: "); //print
-         n1 = i.nextInt();
+         n1 = leitor.nextInt();
     
          System.out.println("Digite o segundo numero: "); //print
-         n2 = i.nextInt(); // coloca a resposta na var n2
+         n2 = leitor.nextInt(); // coloca a resposta na var n2
     
          soma = n1 + n2; //soma o que foi digitado na var soma
          System.out.println(n1 + "+" + n2 + "=" + soma); // print do resultado da soma
-         i.close(); // fecha o Scanner
+         leitor.close(); // fecha o Scanner
     }// fim do metodo main
     } // fim da classe Atv01
