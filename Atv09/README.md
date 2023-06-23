@@ -17,6 +17,8 @@ Observações:
 * Utilize estruturas de repetição e operações matemáticas para calcular a soma dos números.
 
 * Código:
+
+  
                         /*
                         IFPR - Campus Cascavel
                         Curso: Informatica
