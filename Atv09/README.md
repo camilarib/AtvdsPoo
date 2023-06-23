@@ -19,14 +19,14 @@ Observações:
 * Código:
 
   
-                        /*
-                        IFPR - Campus Cascavel
-                        Curso: Informatica
-                        Diciplina: Programação Orientada à Objetos
-                        Professor: Nelson Bellincanta
-                        Aluna: Camila Ribeiro Gonçalves
-                        Data: 11/05/2023
-                        */
+          /*
+          IFPR - Campus Cascavel
+          Curso: Informatica
+          Diciplina: Programação Orientada à Objetos
+          Professor: Nelson Bellincanta
+          Aluna: Camila Ribeiro Gonçalves
+          Data: 23/06/2023
+          */
                         public class Atv09 { // inicio da classe atv09
                             public static void imprimirNumeros(int[] numeros) { // recebe um array de inteiros como parâmetro e imprime cada número na tela
                                 for (int numero : numeros) { // inicio do for que irá percorrer o array numeros
