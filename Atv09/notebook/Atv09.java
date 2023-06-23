@@ -7,7 +7,6 @@ Aluna: Camila Ribeiro Gonçalves
 Data: 11/05/2023
 */
 
-//import java.util.ArrayList;
 
 public class Atv09 { // inicio da classe atv09
     public static void imprimirNumeros(int[] numeros) { // recebe um array de inteiros como parâmetro e imprime cada número na tela
@@ -31,8 +30,5 @@ public static void main(String[] args) { //inicio do método main
         imprimirNumeros(numeros); // chama o método imprimirNumeros e exibe os numeros iniciais
 
         somaNumeros(numeros); // chama o método imprimirNumeros e exibe a soma dos numeros
-
-        //System.out.println("Array atualizado após a soma:"); //
-       // imprimirNumeros(numeros); //
     } //fim do método main
 } // fim da classe Atv09
