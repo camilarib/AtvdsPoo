@@ -1,3 +1,10 @@
+* IFPR - Campus Cascavel
+* Curso: Informatica
+* Diciplina: Programação Orientada à Objetos
+* Professor: Nelson Bellincanta
+* Aluna: Camila Ribeiro Gonçalves
+* Data: 25/08/2023
+
 # Atv03
 * Proposta da atividade:
 > Suponha que você está desenvolvendo um sistema de gerenciamento de veículos para uma concessionária. Você precisa modelar
